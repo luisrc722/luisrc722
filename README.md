@@ -11,7 +11,7 @@
 Soy un **desarrollador de software** con orientación a la **arquitectura de sistemas modulares y escalables**, combinando creatividad, pensamiento sistémico y dominio técnico.  
 Mi enfoque se centra en el desarrollo de **soluciones headless**, optimización de procesos, automatización local y diseño de interfaces fluidas e intuitivas.
 
-Actualmente lidero **[Barbarian](https://barbarian.com.mx)**, un ecosistema de comercio electrónico especializado en **equipos de gimnasio fabricados en México**, construido bajo los principios **SOLID** y **Feature-Sliced Architecture (FSA)**.
+Actualmente trabajo en un proyecto: **[Barbarian](https://barbarian.com.mx)**, un ecosistema de comercio electrónico especializado en **equipos de gimnasio fabricados en México**, construido bajo los principios **SOLID** y **Feature-Sliced Architecture (FSA)**.
 
 ---
 
