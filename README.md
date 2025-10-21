@@ -63,7 +63,7 @@
 ### 📫 Contacto
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/luis-roldan-camacho-577a271a2/" target="_blank">
+  <a href="https://www.linkedin.com/in/luis-roldan-camacho/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;
