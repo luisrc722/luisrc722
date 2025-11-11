@@ -1,7 +1,7 @@
 # 👋 ¡Hola, soy Luis R. C. (@luisrc722)!
 
 <p align="center">
-  <em>Desarrollador Full-Stack | Arquitecto de Software | Creador del Ecosistema Barbarian</em>
+  <em>Desarrollador frontend | Arquitecto de Software</em>
 </p>
 
 ---
@@ -11,30 +11,6 @@
 Soy un **desarrollador de software** con orientación a la **arquitectura de sistemas modulares y escalables**, combinando creatividad, pensamiento sistémico y dominio técnico.  
 Mi enfoque se centra en el desarrollo de **soluciones headless**, optimización de procesos, automatización local y diseño de interfaces fluidas e intuitivas.
 
-Actualmente trabajo en un proyecto: **[Barbarian](https://barbarian.com.mx)**, un ecosistema de comercio electrónico especializado en **equipos de gimnasio fabricados en México**, construido bajo los principios **SOLID** y **Feature-Sliced Architecture (FSA)**.
-
----
-
-### 🚀 Proyecto Principal: *Barbarian Ecosystem*
-
-<table border="0" cellpadding="10">
-  <tr>
-    <td valign="top">
-      <h3>🏗️ Barbarian E-commerce</h3>
-      <p>
-        Plataforma integral para la venta de equipamiento de entrenamiento pesado, desarrollada con un enfoque headless y escalabilidad modular.
-      </p>
-      <ul>
-        <li>Frontend: Next.js 15 + TypeScript + TailwindCSS + GSAP + Framer Motion + Lenis</li>
-        <li>Backend: WordPress + WooCommerce REST personalizado</li>
-        <li>Infraestructura: Ubuntu 24.04/25.04 · Hostinger · CI/CD local</li>
-        <li>Diseño: Glassmorphism · Interfaces futuristas · Tipografía Evil Empire</li>
-      </ul>
-      <p><a href="https://barbarian.com.mx" target="_blank"><strong>🌐 Visitar Sitio Web</strong></a></p>
-    </td>
-  </tr>
-</table>
-
 ---
 
 ### 🧩 Repositorios Destacados
@@ -43,7 +19,6 @@ Actualmente trabajo en un proyecto: **[Barbarian](https://barbarian.com.mx)**, u
 | [**pythontest**](https://github.com/luisrc722/pythontest) | Repositorio de pruebas y automatización con Python (POO, CLI, testing). | Python |
 | [**luisrc722.github.io**](https://github.com/luisrc722/luisrc722.github.io) | Sitio personal tipo portafolio profesional con enfoque en proyectos y documentación. | HTML · CSS · JS |
 | [**luisrc722**](https://github.com/luisrc722/luisrc722) | Repositorio de perfil GitHub que centraliza tu presentación profesional. | Markdown · Docs |
-| [**BARBARIAN**](https://github.com/andrvvv/BARBARIAN) | Base colaborativa del ecosistema Barbarian: arquitectura frontend y lógica de negocio. | Next.js · TypeScript · TailwindCSS |
 
 ---
 
@@ -129,7 +104,7 @@ Actividades principales:
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,tailwind,python,php,mysql,git,linux,blender" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,tailwind,python,php,mysql,git,linux" />
   </a>
 </p>
 
