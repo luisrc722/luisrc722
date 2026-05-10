@@ -1,7 +1,7 @@
 # 👋 ¡Hola, soy Luis R. C. (@luisrc722)!
 
 <p align="center">
-  <em>Desarrollador frontend | Arquitecto de Software</em>
+  <em>Desarrollador | Arquitecto de Software</em>
 </p>
 
 ---
@@ -9,7 +9,7 @@
 ### 🧭 Sobre mí
 
 Soy un **desarrollador de software** con orientación a la **arquitectura de sistemas modulares y escalables**, combinando creatividad, pensamiento sistémico y dominio técnico.  
-Mi enfoque se centra en el desarrollo de **soluciones headless**, optimización de procesos, automatización local y diseño de interfaces fluidas e intuitivas.
+Mi enfoque se centra en el desarrollo de **soluciones low code**, optimización de procesos, automatización local, y análisis/diseño de sistemas.
 
 ---
 
